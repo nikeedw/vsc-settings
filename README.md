@@ -1,0 +1,28 @@
+	PLUGINS:
+	
+- Backticks
+- Code Runner
+- CSS Peek
+- Dev Containers
+- Docker
+- Dracula Official
+- eCSStractor for VS Code
+- ES7 React snippets
+- ES7+ React snippets
+- HTML to CSS autocompletion
+- Icons
+- IntelliCode 
+- IntelliCode API Usage Examples
+- Live Preview 
+- Live Server
+- One Dark Pro
+- Path Autocomplete
+- Prettier
+- Pretty TypeScript Errors
+- Russian Language Package
+- Tabnine 
+- Tailwind CSS IntelliSense 
+- VSCode Terminal for Ubuntu 
+- Webstorm Icon Theme
+- Webstorm Ui Theme
+- WSL

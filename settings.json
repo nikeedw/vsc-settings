@@ -1,0 +1,18 @@
+{
+    "tabnine.experimentalAutoImports": true,	// подключение TabNine
+    "workbench.colorTheme": "Dracula",
+    "editor.fontSize": 16,
+    "emmet.triggerExpansionOnTab": true,	// триггер эммета на табы
+    "workbench.startupEditor": "newUntitledFile",	// начальный экран редактора
+    "files.autoSave": "afterDelay",	// автосохранение изменённых файлов
+    "editor.smoothScrolling": true,	// плавный скролл
+    "editor.minimap.enabled": false,	// отключения мини карты
+    "breadcrumbs.enabled": false,	// отключение хлебных крошек
+    "files.defaultLanguage": "html",	// при Ctrl+N создаётся html файл
+    "editor.detectIndentation": false,
+    "editor.tabSize": 4,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",	// терминал по умолчанию
+    "editor.renderWhitespace": "boundary",	// показывать точки при табах
+	"editor.insertSpaces": false,	// жётские табы (стрелочки)
+	"workbench.activityBar.location": "hidden"	// скрыть боковую панель
+}
